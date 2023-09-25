@@ -31,12 +31,12 @@ nb_print: 2
 nb_print: 5
 12345
 nb_print: 5
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 0-safe_print_list.py
+
+
+
+
+
   
 1. Safe printing of an integers list
 mandatory
@@ -74,12 +74,13 @@ guillaume@ubuntu:~/0x05$ ./1-main.py
 89
 -89
 School is not an integer
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 1-safe_print_integer.py
+
+
+
+
+
+
   
 2. Print and count integers
 mandatory
@@ -123,13 +124,14 @@ nb_print: 5
   File "/0x05/2-safe_print_list_integers.py", line 7, in safe_print_list_integers
     print("{:d}".format(my_list[i]), end="")
 IndexError: list index out of range
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 2-safe_print_list_integers.py
-  
+
+
+
+
+
+
+
 3. Integers division with debug
 mandatory
 Write a function that divides 2 integers and prints the result.
@@ -160,12 +162,13 @@ Inside result: 6.0
 12 / 2 = 6.0
 Inside result: None
 12 / 0 = None
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 3-safe_print_division.py
+
+
+
+
+
+
   
 4. Divide a list
 mandatory
@@ -207,12 +210,11 @@ division by 0
 wrong type
 out of range
 [5.0, 0, 0, 2.0, 0]
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 4-list_division.py
+
+
+
+
   
 5. Raise exception
 mandatory
@@ -231,12 +233,13 @@ except TypeError as te:
 
 guillaume@ubuntu:~/0x05$ ./5-main.py
 Exception raised
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 5-raise_exception.py
+
+
+
+
+
+
   
 6. Raise a message
 mandatory
@@ -255,12 +258,12 @@ except NameError as ne:
 
 guillaume@ubuntu:~/0x05$ ./6-main.py
 C is fun
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 6-raise_exception_msg.py
+
+
+
+
+
   
 7. Safe integer print with error message
 #advanced
@@ -303,13 +306,14 @@ guillaume@ubuntu:~/0x05$ ./100-main.py 2> /dev/null
 89
 -89
 School is not an integer
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 100-safe_print_integer_err.py
-  
+
+
+
+
+
+
+
 8. Safe function
 #advanced
 Write a function that executes a function safely.
@@ -362,12 +366,13 @@ result of my_div: None
 3
 4
 result of print_list: None
-guillaume@ubuntu:~/0x05$ 
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 101-safe_function.py
+
+
+
+
+
+
   
 9. ByteCode -> Python #4
 #advanced
@@ -428,11 +433,12 @@ Write the Python function def magic_calculation(a, b): that does exactly the sam
  13     >>  103 LOAD_FAST                2 (result)
             106 RETURN_VALUE
 Tip: Python bytecode
-Repo:
 
-GitHub repository: alx-higher_level_programming
-Directory: 0x05-python-exceptions
-File: 102-magic_calculation.py
+
+
+
+
+
   
 10. CPython #2: PyFloatObject
 #advanced
