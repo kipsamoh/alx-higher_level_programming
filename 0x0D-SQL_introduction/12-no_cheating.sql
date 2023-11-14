@@ -1,5 +1,5 @@
 -- score 12
--- script that updates the score of Bob to 10 in the table second_table.
+-- script that _updates the score of _Bob to 10 in the _table _second_table.
 UPDATE second_table
 SET
     score = 10
