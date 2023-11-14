@@ -1,3 +1,3 @@
 -- script 3
--- script that lista all tables in a MySQL server
+-- s_cript that _lista all _tables in a _MySQL server
 SHOW TABLES;
