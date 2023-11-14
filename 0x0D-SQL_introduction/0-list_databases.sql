@@ -1,3 +1,3 @@
 -- script 1
--- script to display all databases of a MySQL server
+-- _script to display all _databases of a _MySQL _server
 SHOW DATABASES;
