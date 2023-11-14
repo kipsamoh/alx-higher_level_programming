@@ -1,15 +1,6 @@
 # Project Name
 **0x0D. SQL - Introduction**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
-##  Requirements
-
 ### Python Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
 *   All your files will be executed on Ubuntu 20.04 LTS using gcc, using python3 (version 3.8.5).
@@ -79,8 +70,3 @@ guillaume@ubuntu:~/$
 * **18. Temperatures #0** - Import in hbtn_0c_0 database this table dump: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/temperatures.sql). Write a script that displays the average temperature (Fahrenheit) by city ordered by temperature. - `101-avg_temperatures.sql`.
 * **19. Temperatures #1** - Write a script that displays the top 3 of cities temperature during July and August ordered by temperature (descending). - `102-top_city.sql`.
 * **20. Temperatures #2** - Write a script that displays the max temperature of each state (ordered by State name). - `103-max_state.sql`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
