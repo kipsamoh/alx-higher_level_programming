@@ -2,14 +2,6 @@ To be updated
 # Project Name
 **0x0E. SQL - More queries**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
-##  Requirements
 
 ### Python Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
@@ -147,8 +139,3 @@ $
 * **18. No Comedy tonight!** - Write a script that lists all shows without the genre `Comedy` in the database `hbtn_0d_tvshows`. - `101-not_a_comedy.sql`.
 * **19. Rotten tomatoes** - Import the database `hbtn_0d_tvshows_rate` dump to your MySQL server: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/274/hbtn_0d_tvshows_rate.sql). Write a script that lists all shows from `hbtn_0d_tvshows_rate` by their rating. - `102-rating_shows.sql`.
 * **20. Best genre** - Write a script that lists all genres in the database `hbtn_0d_tvshows_rate` by their rating. - `103-rating_genres.sql`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
