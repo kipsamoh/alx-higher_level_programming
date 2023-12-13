@@ -1,14 +1,6 @@
 # Project Name
 **0x13. JavaScript - Objects, Scopes and Closures**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
-##  Requirements
 
 ### JavaScript Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
@@ -44,8 +36,3 @@ How to inherit an object from another.
 * **11. Factor index** - Write a script that imports an array and computes a new array. - `100-map.js`.
 * **12. Sorted occurences** - Write a script that imports a dictionary of occurrences by user id and computes a dictionary of user ids by occurrence. - `101-sorted.js`.
 * **13. Concat files** - Write a script that concats 2 files. - `102-concat.js`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
