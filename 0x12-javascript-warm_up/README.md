@@ -1,13 +1,6 @@
 # Project Name
 **0x12. JavaScript - Warm up**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
 ##  Requirements
 
 ### JavaScript Scripts
@@ -37,20 +30,6 @@ What are the arithmetic operators and how to use them.
 How to manipulate dictionary.
 How to import a file.
 
-## More Info
-### Install Node 14
-```
-$ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
-$ sudo apt-get install -y nodejs
-```
-
-### Install semi-standard
-[Documentation](https://github.com/standard/semistandard)
-```
-$ sudo npm install semistandard --global
-```
-
-
 * **0. First constant, first print** - Write a script that prints “JavaScript is amazing”. - `0-javascript_is_amazing.js`.
 * **1. 3 languages** - Write a script that prints 3 lines. - `1-multi_languages.js`.
 * **2. Arguments** - Write a script that prints a message depending of the number of arguments passed. - `2-arguments.js`.
@@ -69,8 +48,3 @@ $ sudo npm install semistandard --global
 * **15. Call me Moby** - Write a function that executes `x` times a function. - `101-call_me_moby.js`.
 * **16. Add me maybe** - Write a function that increments and calls a function. - `102-add_me_maybe.js`.
 * **17. Increment object** - Update this script by adding a new function `incr` that increments the integer `value`. - `103-object_fct.js`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
