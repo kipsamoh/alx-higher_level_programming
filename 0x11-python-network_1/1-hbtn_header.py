@@ -9,6 +9,6 @@ import sys
 
 if __name__ == "__main__":
     with urllib.request.urlopen(sys.argv[1]) as response:
-        html = response.info()
-        _value = html.get('X-Request-Id')
+        _html = response.info()
+        _value = _html.get('X-Request-Id')
         print(_value)
