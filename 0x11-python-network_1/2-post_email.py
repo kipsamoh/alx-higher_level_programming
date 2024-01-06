@@ -16,7 +16,7 @@ if __name__ == "__main__":
         "email": email
     }
     _query_string = urllib.parse.urlencode(_param)
-    _data = _query_string.encode("ascii")
+    _data = _query_string.encode("utf-8")
     _req = urllib.request.Request(url, _data)
     with urllib.request.urlopen(_req) as response:
         # _If you do not __pass the data __argument, urllib uses a GET _request.
