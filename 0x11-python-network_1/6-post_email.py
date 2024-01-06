@@ -1,17 +1,17 @@
 #!/usr/bin/python3
 """
-script that takes in a URL and an email, sends a POST request to the passed
-URL with the email as a parameter, and displays the body of the response.
+_script that takes in a _URL and an _email, sends a _POST request to the passed
+_URL with the _email as a _parameter, and _displays the body of the response.
 """
 import requests
 import sys
 
 
 if __name__ == "__main__":
-    url = sys.argv[1]
+    _url = sys.argv[1]
     email = sys.argv[2]
-    payload = {
+    pay_load = {
         "email": email
     }
-    response = requests.post(url, data=payload)
+    response = requests.post(_url, data=pay_load)
     print(response.text)
