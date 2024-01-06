@@ -1,27 +1,6 @@
 # Project Name
 **0x11. Python - Network #1**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
-##  Requirements
-
-### Python Scripts
-*   Allowed editors: `vi`, `vim`, `emacs`.
-*   All your files will be interpreted/compiled on Ubuntu 20.04 LTS.
-*   All your files should end with a new line.
-*   The `main.py` files are used to test your functions, but you don’t have to push them to your repo.
-*   The first line of all your python files should be exactly `#!/usr/bin/python3`.
-*   Your code should use the pycodestyle (version `2.8.*`).
-*   All your files must be executable.
-*   The length of your files will be tested using `wc`.
-*   All your modules should have a documentation (`python3 -c 'print(__import__("my_module").__doc__)'`).
-*   A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified).
-*   Your code should not be executed when imported (by using if `__name__ == "__main__":`).
 
 
 ## Project Description
@@ -45,7 +24,3 @@ How to manipulate data from an external service.
 * **8. Search API** - Write a Python script that takes in a letter and sends a `POST` request to `http://0.0.0.0:5000/search_user` with the letter as a parameter. - `8-json_api.py`.
 * **9. Catch me if you can!** - Write a Python script that takes your GitHub credentials (username and password) and uses the [GitHub API](https://docs.github.com/en/rest/users?apiVersion=2022-11-28) to display your id. - `10-my_github.py`.
 
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
