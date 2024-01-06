@@ -17,10 +17,7 @@ if __name__ == "__main__":
     }
     _query_string = urllib.parse.urlencode(_param)
     _data = _query_string.encode("utf-8")
-    _req = urllib.request.Request(url, _data)
+    _req = urllib.request.Request(url, _data=_data)
     with urllib.request.urlopen(_req) as response:
-        # _If you do not __pass the data __argument, urllib uses a GET _request.
-        # __One way in which GET and POST _requests _differ is that POST _requests
-        # __often have __"side-effects".
         response_content = response.read().decode("utf-8")
         print(response_content)
