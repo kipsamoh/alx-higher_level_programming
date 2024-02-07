@@ -1,13 +1,6 @@
 # Project Name
 **0x15. JavaScript - Web jQuery**
 
-## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
 ##  Requirements
 
 ### scripts
@@ -62,8 +55,3 @@ $ sudo npm install semistandard --global
 * **11. List, add, remove** - Write a script that adds, removes and clears `LI` elements from a list when the user clicks. - `101-script.js`.
 * **12. Say hello to everybody!** - Write a script that fetches and prints how to say “Hello” depending on the language. - `102-script.js`.
 * **13. And press ENTER?** - Write a script that fetches and prints how to say “Hello” depending on the language. - `103-script.js`.
-
-
-## Collaborate
-
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
